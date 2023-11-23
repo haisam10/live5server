@@ -18,6 +18,8 @@ marquee{
 }
 .movie{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .movie-box{
     padding: 16px;
